@@ -19,8 +19,8 @@ Before running ChatGenie, make sure you have the following installed:
 
 To run ChatGenie locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/chatgenie.git`
-2. Navigate to the project directory: `cd chatgenie`
+1. Clone the repository: `git clone https://github.com/YashMehetre/ChatGenie.git`
+2. Navigate to the project directory: `cd ChatGenie`
 3. Install dependencies: `npm install`
 4. Generate an API key from Gemini:
    - Visit the Gemini website, create an account, and generate an API key and secret.
